@@ -1,0 +1,1 @@
+Salvar arquivo como "office.cmd" e executar como administrador
